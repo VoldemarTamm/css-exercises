@@ -1,0 +1,15 @@
+button {
+    border-radius: 0%;
+    font-size: 50px;
+    border-color: rgb(70, 69, 69);
+    border-width: 3px;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: #ffee00
+}
